@@ -19,17 +19,17 @@ PASS src/App.test.tsx
 -------------------|---------|----------|---------|---------|-------------------
 File               | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 -------------------|---------|----------|---------|---------|-------------------
-All files          |     100 |    97.18 |     100 |     100 |                   
+All files          |     100 |      100 |     100 |     100 |                   
  src               |     100 |      100 |     100 |     100 |                   
   App.tsx          |     100 |      100 |     100 |     100 |                   
   arrays.ts        |     100 |      100 |     100 |     100 |                   
   functions.ts     |     100 |      100 |     100 |     100 |                   
   nested.ts        |     100 |      100 |     100 |     100 |                   
   objects.ts       |     100 |      100 |     100 |     100 |                   
- src/components    |     100 |    94.11 |     100 |     100 |                   
+ src/components    |     100 |      100 |     100 |     100 |                   
   ChangeType.tsx   |     100 |      100 |     100 |     100 |                   
   Counter.tsx      |     100 |      100 |     100 |     100 |                   
-  CycleHoliday.tsx |     100 |       90 |     100 |     100 | 16,30             
+  CycleHoliday.tsx |     100 |      100 |     100 |     100 |                   
   RevealAnswer.tsx |     100 |      100 |     100 |     100 |                   
   StartAttempt.tsx |     100 |      100 |     100 |     100 |                   
   TwoDice.tsx      |     100 |      100 |     100 |     100 |                   
@@ -41,5 +41,5 @@ All files          |     100 |    97.18 |     100 |     100 |
 Test Suites: 11 passed, 11 total
 Tests:       93 passed, 93 total
 Snapshots:   0 total
-Time:        10.574 s
+Time:        6.757 s
 Ran all test suites.
